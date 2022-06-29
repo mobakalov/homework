@@ -41,12 +41,14 @@ nav ul li a{
 .image{
     height: 150px;
     width: 120px;
+    text-align: center;
 }
 .columns {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
+    text-align: center;
 }
 
 .columns {
@@ -58,5 +60,6 @@ nav ul li a{
 }
 
 #rows{
-    width: 75%;
+    width: 100%;
+    text-align: center;
 }
